@@ -39,3 +39,11 @@
    Administration of satellite communication systems. My responsibilities included control, monitoring and network configuration, hardware troubleshooting, development of quidance material for operational use.
  
 ***
+
+### **Education**
+* Almaty University of Power Engineering and Telecommunications (AUES), Master in Radio Engineering, Electronics and telecommunications.
+* High School №111 
+*** 
+### **English**
+B1-Intermediate
+***
