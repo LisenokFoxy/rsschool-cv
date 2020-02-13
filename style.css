@@ -1,7 +1,7 @@
 
 
 body {
-    border: 1px solid rgba(0, 0, 0, 0.349);
+    border: 1px solid #a6a6a6;
     padding: 20px;
     margin: auto;
     width: 65%;
@@ -27,21 +27,17 @@ header {
  }
 
 main {
-    background-color: rgba(255, 254, 254, 0.904);
+    background-color: #fffefe;
 }
 
 h2 {
     color: #4b2800;
-    
 }
 
 .content {
     font-family: sans-serif;
     line-height: 1.5;
-    
-    border-bottom: 1px solid  rgba(243, 131, 20, 0.747);
-    
-    
+    border-bottom: 1px solid #f6a24f;
 }
 
 .point {
