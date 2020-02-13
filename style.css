@@ -1,12 +1,10 @@
 
 
 body {
-    border: 1px solid rgba(0, 0, 0, 0.349); 
-    padding: 20px; 
-    margin: auto; 
+    border: 1px solid rgba(0, 0, 0, 0.349);
+    padding: 20px;
+    margin: auto;
     width: 65%;
-    
-     
    }
   
 header {
@@ -41,7 +39,7 @@ h2 {
     font-family: sans-serif;
     line-height: 1.5;
     
-    border-bottom: 1px solid  rgba(243, 131, 20, 0.747); 
+    border-bottom: 1px solid  rgba(243, 131, 20, 0.747);
     
     
 }
